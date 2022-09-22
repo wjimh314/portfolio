@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Bportfolio%7D/static/css/main.14edb46f.css",
+    "main.js": "/%7Bportfolio%7D/static/js/main.4f74f72b.js",
+    "static/media/foodFREQs.jpg": "/%7Bportfolio%7D/static/media/foodFREQs.556dc3760c62d872b13f.jpg",
+    "static/media/javascriptTest.jpeg": "/%7Bportfolio%7D/static/media/javascriptTest.07dd29626884cb8431ae.jpeg",
+    "static/media/noteTaker.jpg": "/%7Bportfolio%7D/static/media/noteTaker.8b4c1d51c8d9d2c88a5a.jpg",
+    "static/media/passwordGenerator.jpg": "/%7Bportfolio%7D/static/media/passwordGenerator.6d4030933cbc7c2c693d.jpg",
+    "static/media/JATE.jpg": "/%7Bportfolio%7D/static/media/JATE.ee0e7ac916ff79df04ad.jpg",
+    "static/media/gitThatCurrency.jpg": "/%7Bportfolio%7D/static/media/gitThatCurrency.7c7af545efa6987b4733.jpg",
+    "static/media/me.jpg": "/%7Bportfolio%7D/static/media/me.88e81881caefaf5d1e3c.jpg",
+    "index.html": "/%7Bportfolio%7D/index.html",
+    "main.14edb46f.css.map": "/%7Bportfolio%7D/static/css/main.14edb46f.css.map",
+    "main.4f74f72b.js.map": "/%7Bportfolio%7D/static/js/main.4f74f72b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14edb46f.css",
+    "static/js/main.4f74f72b.js"
+  ]
+}
